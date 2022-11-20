@@ -6,16 +6,17 @@ In this application my task was to refactor an existing code for a functioning w
 ## Table of Contents
 * [LiveLink](#livelink)
 * [Screenshots](#screenshots)
-* [Original HTML File](#screenshots)
-* [Original CSS File](#screenshots)
+* [Original HTML File](#originalhtmlfile)
+* [Original CSS File](#originalcssfile)
 * [Contacts](#contacts)
 
 ## LiveLink
 Checkout my application: [Link](https://alicelikay.github.io/1-ali-efficiency-hw/) 
 
 ## Screenshots
-![web browser]()
-![web browser]()
+![web browser](./assets/img/Screenshot%20(90).png)
+![web browser](./assets/img/Screenshot%20(91).png)
+![web browser](./assets/img/Screenshot%20(92).png)
 
 ## Original HTML File
 ```
